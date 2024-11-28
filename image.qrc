@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/blue_day.png</file>
+        <file>images/calendar_bg.png</file>
+        <file>images/circle progress.png</file>
+        <file>images/deepblue_day.png</file>
+        <file>images/grey_day.png</file>
+        <file>images/input.png</file>
+        <file>images/minus_button.png</file>
+        <file>images/plus_button.png</file>
+        <file>images/button_hover.png</file>
+        <file>images/button_normal.png</file>
+        <file>images/button_press.png</file>
+    </qresource>
+</RCC>
